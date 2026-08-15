@@ -1,5 +1,7 @@
 # slopLock
 
+The code corresponding to my SlopLock [blog.](https://steve-s.gitbook.io/0xtriboulet/artificial-intelligence/sloplock)
+
 > **Proof-of-concept, mock "ransomware" — security-research only.**
 > `slopLock` is a deliberately *limited* and fully **reversible** document-file
 > encryption utility built to explore threat-modeling questions around
